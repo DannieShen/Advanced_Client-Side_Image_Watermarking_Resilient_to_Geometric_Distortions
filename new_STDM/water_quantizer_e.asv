@@ -1,0 +1,7 @@
+function [quan_pic] = water_quantizer_e(img,A_enc_abs,PQ,flag)
+    quan_pic = img;
+    for k=1:sum(flag)
+        
+    end
+end
+
